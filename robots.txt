@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://s1fa.github.io/sitemap.xml
